@@ -1,0 +1,1200 @@
+Dato 322486 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1951940060 segundos
+
+Tiempo real (Tiempo total): 1.9519400597e-01 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1956720352 segundos
+
+Tiempo real (Tiempo total): 1.9567203522e-01 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1956100464 segundos
+
+Tiempo real (Tiempo total): 1.9561004639e-01 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1946859360 segundos
+
+Tiempo real (Tiempo total): 1.9468593597e-01 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1940639019 segundos
+
+Tiempo real (Tiempo total): 1.9406390190e-01 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.2005288601 segundos
+
+Tiempo real (Tiempo total): 2.0052886009e-01 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1955540180 segundos
+
+Tiempo real (Tiempo total): 1.9555401802e-01 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1972610950 segundos
+
+Tiempo real (Tiempo total): 1.9726109505e-01 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1963660717 segundos
+
+Tiempo real (Tiempo total): 1.9636607170e-01 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1942801476 segundos
+
+Tiempo real (Tiempo total): 1.9428014755e-01 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1941459179 segundos
+
+Tiempo real (Tiempo total): 1.9414591789e-01 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1964371204 segundos
+
+Tiempo real (Tiempo total): 1.9643712044e-01 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1952970028 segundos
+
+Tiempo real (Tiempo total): 1.9529700279e-01 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1951711178 segundos
+
+Tiempo real (Tiempo total): 1.9517111778e-01 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1965060234 segundos
+
+Tiempo real (Tiempo total): 1.9650602341e-01 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1989200115 segundos
+
+Tiempo real (Tiempo total): 1.9892001152e-01 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1943597794 segundos
+
+Tiempo real (Tiempo total): 1.9435977936e-01 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1969599724 segundos
+
+Tiempo real (Tiempo total): 1.9695997238e-01 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1947970390 segundos
+
+Tiempo real (Tiempo total): 1.9479703903e-01 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.1964340210 segundos
+
+Tiempo real (Tiempo total): 1.9643402100e-01 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.4163861275 segundos
+
+Tiempo real (Tiempo total): 4.1638612747e-01 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3915739059 segundos
+
+Tiempo real (Tiempo total): 3.9157390594e-01 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3908238411 segundos
+
+Tiempo real (Tiempo total): 3.9082384109e-01 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3930759430 segundos
+
+Tiempo real (Tiempo total): 3.9307594299e-01 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3899061680 segundos
+
+Tiempo real (Tiempo total): 3.8990616798e-01 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3898408413 segundos
+
+Tiempo real (Tiempo total): 3.8984084129e-01 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3935809135 segundos
+
+Tiempo real (Tiempo total): 3.9358091354e-01 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3974249363 segundos
+
+Tiempo real (Tiempo total): 3.9742493629e-01 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3939621449 segundos
+
+Tiempo real (Tiempo total): 3.9396214485e-01 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3960938454 segundos
+
+Tiempo real (Tiempo total): 3.9609384537e-01 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3978559971 segundos
+
+Tiempo real (Tiempo total): 3.9785599709e-01 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3925180435 segundos
+
+Tiempo real (Tiempo total): 3.9251804352e-01 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3922030926 segundos
+
+Tiempo real (Tiempo total): 3.9220309258e-01 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3949229717 segundos
+
+Tiempo real (Tiempo total): 3.9492297173e-01 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3945000172 segundos
+
+Tiempo real (Tiempo total): 3.9450001717e-01 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3919510841 segundos
+
+Tiempo real (Tiempo total): 3.9195108414e-01 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3960900307 segundos
+
+Tiempo real (Tiempo total): 3.9609003067e-01 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3893730640 segundos
+
+Tiempo real (Tiempo total): 3.8937306404e-01 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3908240795 segundos
+
+Tiempo real (Tiempo total): 3.9082407951e-01 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 2000000 elementos ---
+Tiempo real (Tiempo total): 0.3922359943 segundos
+
+Tiempo real (Tiempo total): 3.9223599434e-01 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5847110748 segundos
+
+Tiempo real (Tiempo total): 5.8471107483e-01 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5877659321 segundos
+
+Tiempo real (Tiempo total): 5.8776593208e-01 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5831129551 segundos
+
+Tiempo real (Tiempo total): 5.8311295509e-01 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5851650238 segundos
+
+Tiempo real (Tiempo total): 5.8516502380e-01 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5847179890 segundos
+
+Tiempo real (Tiempo total): 5.8471798897e-01 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5843288898 segundos
+
+Tiempo real (Tiempo total): 5.8432888985e-01 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5878338814 segundos
+
+Tiempo real (Tiempo total): 5.8783388138e-01 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5858020782 segundos
+
+Tiempo real (Tiempo total): 5.8580207825e-01 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5894298553 segundos
+
+Tiempo real (Tiempo total): 5.8942985535e-01 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5873298645 segundos
+
+Tiempo real (Tiempo total): 5.8732986450e-01 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5862481594 segundos
+
+Tiempo real (Tiempo total): 5.8624815941e-01 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5859081745 segundos
+
+Tiempo real (Tiempo total): 5.8590817451e-01 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5856671333 segundos
+
+Tiempo real (Tiempo total): 5.8566713333e-01 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5893671513 segundos
+
+Tiempo real (Tiempo total): 5.8936715126e-01 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5856759548 segundos
+
+Tiempo real (Tiempo total): 5.8567595482e-01 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5841739178 segundos
+
+Tiempo real (Tiempo total): 5.8417391777e-01 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5859460831 segundos
+
+Tiempo real (Tiempo total): 5.8594608307e-01 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5898079872 segundos
+
+Tiempo real (Tiempo total): 5.8980798721e-01 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5873939991 segundos
+
+Tiempo real (Tiempo total): 5.8739399910e-01 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 3000000 elementos ---
+Tiempo real (Tiempo total): 0.5849609375 segundos
+
+Tiempo real (Tiempo total): 5.8496093750e-01 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7813160419 segundos
+
+Tiempo real (Tiempo total): 7.8131604195e-01 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7778418064 segundos
+
+Tiempo real (Tiempo total): 7.7784180641e-01 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7908790112 segundos
+
+Tiempo real (Tiempo total): 7.9087901115e-01 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7860150337 segundos
+
+Tiempo real (Tiempo total): 7.8601503372e-01 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7853949070 segundos
+
+Tiempo real (Tiempo total): 7.8539490700e-01 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7789850235 segundos
+
+Tiempo real (Tiempo total): 7.7898502350e-01 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7780871391 segundos
+
+Tiempo real (Tiempo total): 7.7808713913e-01 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7766819000 segundos
+
+Tiempo real (Tiempo total): 7.7668190002e-01 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7832670212 segundos
+
+Tiempo real (Tiempo total): 7.8326702118e-01 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7801709175 segundos
+
+Tiempo real (Tiempo total): 7.8017091751e-01 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7951548100 segundos
+
+Tiempo real (Tiempo total): 7.9515480995e-01 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7806777954 segundos
+
+Tiempo real (Tiempo total): 7.8067779541e-01 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.8006660938 segundos
+
+Tiempo real (Tiempo total): 8.0066609383e-01 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7800059319 segundos
+
+Tiempo real (Tiempo total): 7.8000593185e-01 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7791409492 segundos
+
+Tiempo real (Tiempo total): 7.7914094925e-01 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7783079147 segundos
+
+Tiempo real (Tiempo total): 7.7830791473e-01 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7755150795 segundos
+
+Tiempo real (Tiempo total): 7.7551507950e-01 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7809510231 segundos
+
+Tiempo real (Tiempo total): 7.8095102310e-01 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7758150101 segundos
+
+Tiempo real (Tiempo total): 7.7581501007e-01 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 4000000 elementos ---
+Tiempo real (Tiempo total): 0.7798361778 segundos
+
+Tiempo real (Tiempo total): 7.7983617783e-01 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9749729633 segundos
+
+Tiempo real (Tiempo total): 9.7497296333e-01 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9720139503 segundos
+
+Tiempo real (Tiempo total): 9.7201395035e-01 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9774489403 segundos
+
+Tiempo real (Tiempo total): 9.7744894028e-01 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9741201401 segundos
+
+Tiempo real (Tiempo total): 9.7412014008e-01 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9701340199 segundos
+
+Tiempo real (Tiempo total): 9.7013401985e-01 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9722690582 segundos
+
+Tiempo real (Tiempo total): 9.7226905823e-01 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9763669968 segundos
+
+Tiempo real (Tiempo total): 9.7636699677e-01 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9719998837 segundos
+
+Tiempo real (Tiempo total): 9.7199988365e-01 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9721758366 segundos
+
+Tiempo real (Tiempo total): 9.7217583656e-01 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9783921242 segundos
+
+Tiempo real (Tiempo total): 9.7839212418e-01 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9740178585 segundos
+
+Tiempo real (Tiempo total): 9.7401785851e-01 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9689199924 segundos
+
+Tiempo real (Tiempo total): 9.6891999245e-01 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9788990021 segundos
+
+Tiempo real (Tiempo total): 9.7889900208e-01 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9702951908 segundos
+
+Tiempo real (Tiempo total): 9.7029519081e-01 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9741139412 segundos
+
+Tiempo real (Tiempo total): 9.7411394119e-01 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9770078659 segundos
+
+Tiempo real (Tiempo total): 9.7700786591e-01 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9685921669 segundos
+
+Tiempo real (Tiempo total): 9.6859216690e-01 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9704079628 segundos
+
+Tiempo real (Tiempo total): 9.7040796280e-01 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9749059677 segundos
+
+Tiempo real (Tiempo total): 9.7490596771e-01 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 5000000 elementos ---
+Tiempo real (Tiempo total): 0.9760918617 segundos
+
+Tiempo real (Tiempo total): 9.7609186172e-01 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1677350998 segundos
+
+Tiempo real (Tiempo total): 1.1677350998e+00 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1625812054 segundos
+
+Tiempo real (Tiempo total): 1.1625812054e+00 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1689021587 segundos
+
+Tiempo real (Tiempo total): 1.1689021587e+00 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1725869179 segundos
+
+Tiempo real (Tiempo total): 1.1725869179e+00 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1694250107 segundos
+
+Tiempo real (Tiempo total): 1.1694250107e+00 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1650230885 segundos
+
+Tiempo real (Tiempo total): 1.1650230885e+00 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1667561531 segundos
+
+Tiempo real (Tiempo total): 1.1667561531e+00 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1720058918 segundos
+
+Tiempo real (Tiempo total): 1.1720058918e+00 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1675970554 segundos
+
+Tiempo real (Tiempo total): 1.1675970554e+00 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1673920155 segundos
+
+Tiempo real (Tiempo total): 1.1673920155e+00 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1661460400 segundos
+
+Tiempo real (Tiempo total): 1.1661460400e+00 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.3366718292 segundos
+
+Tiempo real (Tiempo total): 1.3366718292e+00 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.2878630161 segundos
+
+Tiempo real (Tiempo total): 1.2878630161e+00 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.2306249142 segundos
+
+Tiempo real (Tiempo total): 1.2306249142e+00 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.3974208832 segundos
+
+Tiempo real (Tiempo total): 1.3974208832e+00 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1669430733 segundos
+
+Tiempo real (Tiempo total): 1.1669430733e+00 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1635789871 segundos
+
+Tiempo real (Tiempo total): 1.1635789871e+00 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.1635758877 segundos
+
+Tiempo real (Tiempo total): 1.1635758877e+00 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.2244250774 segundos
+
+Tiempo real (Tiempo total): 1.2244250774e+00 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 6000000 elementos ---
+Tiempo real (Tiempo total): 1.3949279785 segundos
+
+Tiempo real (Tiempo total): 1.3949279785e+00 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3662421703 segundos
+
+Tiempo real (Tiempo total): 1.3662421703e+00 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3564870358 segundos
+
+Tiempo real (Tiempo total): 1.3564870358e+00 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3541629314 segundos
+
+Tiempo real (Tiempo total): 1.3541629314e+00 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3610548973 segundos
+
+Tiempo real (Tiempo total): 1.3610548973e+00 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3594770432 segundos
+
+Tiempo real (Tiempo total): 1.3594770432e+00 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3562219143 segundos
+
+Tiempo real (Tiempo total): 1.3562219143e+00 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.4779820442 segundos
+
+Tiempo real (Tiempo total): 1.4779820442e+00 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.5302009583 segundos
+
+Tiempo real (Tiempo total): 1.5302009583e+00 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.4032800198 segundos
+
+Tiempo real (Tiempo total): 1.4032800198e+00 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3639931679 segundos
+
+Tiempo real (Tiempo total): 1.3639931679e+00 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3533740044 segundos
+
+Tiempo real (Tiempo total): 1.3533740044e+00 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3723378181 segundos
+
+Tiempo real (Tiempo total): 1.3723378181e+00 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3593628407 segundos
+
+Tiempo real (Tiempo total): 1.3593628407e+00 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.6370480061 segundos
+
+Tiempo real (Tiempo total): 1.6370480061e+00 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.6690959930 segundos
+
+Tiempo real (Tiempo total): 1.6690959930e+00 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3565990925 segundos
+
+Tiempo real (Tiempo total): 1.3565990925e+00 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3675699234 segundos
+
+Tiempo real (Tiempo total): 1.3675699234e+00 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.3606209755 segundos
+
+Tiempo real (Tiempo total): 1.3606209755e+00 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.5738990307 segundos
+
+Tiempo real (Tiempo total): 1.5738990307e+00 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 7000000 elementos ---
+Tiempo real (Tiempo total): 1.4412610531 segundos
+
+Tiempo real (Tiempo total): 1.4412610531e+00 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5576009750 segundos
+
+Tiempo real (Tiempo total): 1.5576009750e+00 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5570359230 segundos
+
+Tiempo real (Tiempo total): 1.5570359230e+00 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5488059521 segundos
+
+Tiempo real (Tiempo total): 1.5488059521e+00 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.8213529587 segundos
+
+Tiempo real (Tiempo total): 1.8213529587e+00 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5818369389 segundos
+
+Tiempo real (Tiempo total): 1.5818369389e+00 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5543150902 segundos
+
+Tiempo real (Tiempo total): 1.5543150902e+00 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5510540009 segundos
+
+Tiempo real (Tiempo total): 1.5510540009e+00 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5576868057 segundos
+
+Tiempo real (Tiempo total): 1.5576868057e+00 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.8564779758 segundos
+
+Tiempo real (Tiempo total): 1.8564779758e+00 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.6328179836 segundos
+
+Tiempo real (Tiempo total): 1.6328179836e+00 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.7700290680 segundos
+
+Tiempo real (Tiempo total): 1.7700290680e+00 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5493490696 segundos
+
+Tiempo real (Tiempo total): 1.5493490696e+00 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5496749878 segundos
+
+Tiempo real (Tiempo total): 1.5496749878e+00 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5736420155 segundos
+
+Tiempo real (Tiempo total): 1.5736420155e+00 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5539200306 segundos
+
+Tiempo real (Tiempo total): 1.5539200306e+00 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.7326979637 segundos
+
+Tiempo real (Tiempo total): 1.7326979637e+00 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.6674630642 segundos
+
+Tiempo real (Tiempo total): 1.6674630642e+00 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5528161526 segundos
+
+Tiempo real (Tiempo total): 1.5528161526e+00 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.5601089001 segundos
+
+Tiempo real (Tiempo total): 1.5601089001e+00 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 8000000 elementos ---
+Tiempo real (Tiempo total): 1.8380401134 segundos
+
+Tiempo real (Tiempo total): 1.8380401134e+00 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7997608185 segundos
+
+Tiempo real (Tiempo total): 1.7997608185e+00 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 2.0000531673 segundos
+
+Tiempo real (Tiempo total): 2.0000531673e+00 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7425129414 segundos
+
+Tiempo real (Tiempo total): 1.7425129414e+00 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7437300682 segundos
+
+Tiempo real (Tiempo total): 1.7437300682e+00 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7467110157 segundos
+
+Tiempo real (Tiempo total): 1.7467110157e+00 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7477161884 segundos
+
+Tiempo real (Tiempo total): 1.7477161884e+00 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7477130890 segundos
+
+Tiempo real (Tiempo total): 1.7477130890e+00 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7485709190 segundos
+
+Tiempo real (Tiempo total): 1.7485709190e+00 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7436881065 segundos
+
+Tiempo real (Tiempo total): 1.7436881065e+00 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7491450310 segundos
+
+Tiempo real (Tiempo total): 1.7491450310e+00 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7471518517 segundos
+
+Tiempo real (Tiempo total): 1.7471518517e+00 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7831690311 segundos
+
+Tiempo real (Tiempo total): 1.7831690311e+00 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7510907650 segundos
+
+Tiempo real (Tiempo total): 1.7510907650e+00 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 2.0416209698 segundos
+
+Tiempo real (Tiempo total): 2.0416209698e+00 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7627968788 segundos
+
+Tiempo real (Tiempo total): 1.7627968788e+00 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7484409809 segundos
+
+Tiempo real (Tiempo total): 1.7484409809e+00 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7481479645 segundos
+
+Tiempo real (Tiempo total): 1.7481479645e+00 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7466249466 segundos
+
+Tiempo real (Tiempo total): 1.7466249466e+00 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7430980206 segundos
+
+Tiempo real (Tiempo total): 1.7430980206e+00 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 9000000 elementos ---
+Tiempo real (Tiempo total): 1.7410640717 segundos
+
+Tiempo real (Tiempo total): 1.7410640717e+00 segundos
+
+Dato 322486 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9381601810 segundos
+
+Tiempo real (Tiempo total): 1.9381601810e+00 segundos
+
+Dato 14700764 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1974840164 segundos
+
+Tiempo real (Tiempo total): 2.1974840164e+00 segundos
+
+Dato 3128036 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9790420532 segundos
+
+Tiempo real (Tiempo total): 1.9790420532e+00 segundos
+
+Dato 6337399 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1116809845 segundos
+
+Tiempo real (Tiempo total): 2.1116809845e+00 segundos
+
+Dato 61396 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.0737481117 segundos
+
+Tiempo real (Tiempo total): 2.0737481117e+00 segundos
+
+Dato 10393545 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9292619228 segundos
+
+Tiempo real (Tiempo total): 1.9292619228e+00 segundos
+
+Dato 2147445644 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9373240471 segundos
+
+Tiempo real (Tiempo total): 1.9373240471e+00 segundos
+
+Dato 1295390003 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1890239716 segundos
+
+Tiempo real (Tiempo total): 2.1890239716e+00 segundos
+
+Dato 450057883 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.0342359543 segundos
+
+Tiempo real (Tiempo total): 2.0342359543e+00 segundos
+
+Dato 187645041 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1804800034 segundos
+
+Tiempo real (Tiempo total): 2.1804800034e+00 segundos
+
+Dato 1980098116 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.2453770638 segundos
+
+Tiempo real (Tiempo total): 2.2453770638e+00 segundos
+
+Dato 152503 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9402680397 segundos
+
+Tiempo real (Tiempo total): 1.9402680397e+00 segundos
+
+Dato 5000 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1613078117 segundos
+
+Tiempo real (Tiempo total): 2.1613078117e+00 segundos
+
+Dato 1493283650 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.0148150921 segundos
+
+Tiempo real (Tiempo total): 2.0148150921e+00 segundos
+
+Dato 214826 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.0520188808 segundos
+
+Tiempo real (Tiempo total): 2.0520188808e+00 segundos
+
+Dato 1843349527 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1140468121 segundos
+
+Tiempo real (Tiempo total): 2.1140468121e+00 segundos
+
+Dato 1360839354 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9339020252 segundos
+
+Tiempo real (Tiempo total): 1.9339020252e+00 segundos
+
+Dato 2109248666 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.0516860485 segundos
+
+Tiempo real (Tiempo total): 2.0516860485e+00 segundos
+
+Dato 2147470852 encontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 2.1189708710 segundos
+
+Tiempo real (Tiempo total): 2.1189708710e+00 segundos
+
+Dato 0, no entontrado
+-- Tiempos con 10000000 elementos ---
+Tiempo real (Tiempo total): 1.9396219254 segundos
+
+Tiempo real (Tiempo total): 1.9396219254e+00 segundos
+

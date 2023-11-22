@@ -1,0 +1,6 @@
+Dato 856834115 encontrado
+-- Tiempos con 1000000 elementos ---
+Tiempo real (Tiempo total): 0.2215578556 segundos
+
+Tiempo real (Tiempo total): 2.2155785561e-01 segundos
+

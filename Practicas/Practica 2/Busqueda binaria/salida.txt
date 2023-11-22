@@ -1,0 +1,16 @@
+El elemento 236 se encontro en la posicion: 1
+197
+236
+485
+857
+902
+1031
+1124
+1134
+1179
+1540
+-- Tiempos con 10 elementos ---
+Tiempo real (Tiempo total): 0.0002379417 segundos
+
+Tiempo real (Tiempo total): 2.3794174194e-04 segundos
+

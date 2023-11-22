@@ -1,0 +1,6 @@
+El elemento 1031 se encontro en la posicion: 5
+-- Tiempos con 1000 elementos ---
+Tiempo real (Tiempo total): 0.0007410049 segundos
+
+Tiempo real (Tiempo total): 7.4100494385e-04 segundos
+
